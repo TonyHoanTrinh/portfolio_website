@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio_website/static/css/main.9c9ea3d5.chunk.css",
+    "main.js": "/portfolio_website/static/js/main.b6e86e73.chunk.js",
+    "main.js.map": "/portfolio_website/static/js/main.b6e86e73.chunk.js.map",
+    "runtime-main.js": "/portfolio_website/static/js/runtime-main.51227fe1.js",
+    "runtime-main.js.map": "/portfolio_website/static/js/runtime-main.51227fe1.js.map",
+    "static/css/2.39c4c0fe.chunk.css": "/portfolio_website/static/css/2.39c4c0fe.chunk.css",
+    "static/js/2.a8b086a5.chunk.js": "/portfolio_website/static/js/2.a8b086a5.chunk.js",
+    "static/js/2.a8b086a5.chunk.js.map": "/portfolio_website/static/js/2.a8b086a5.chunk.js.map",
+    "static/js/3.684e9ac1.chunk.js": "/portfolio_website/static/js/3.684e9ac1.chunk.js",
+    "static/js/3.684e9ac1.chunk.js.map": "/portfolio_website/static/js/3.684e9ac1.chunk.js.map",
+    "index.html": "/portfolio_website/index.html",
+    "static/css/2.39c4c0fe.chunk.css.map": "/portfolio_website/static/css/2.39c4c0fe.chunk.css.map",
+    "static/css/main.9c9ea3d5.chunk.css.map": "/portfolio_website/static/css/main.9c9ea3d5.chunk.css.map",
+    "static/js/2.a8b086a5.chunk.js.LICENSE.txt": "/portfolio_website/static/js/2.a8b086a5.chunk.js.LICENSE.txt",
+    "static/media/CPPEncryptionPicture.6e8bd40a.png": "/portfolio_website/static/media/CPPEncryptionPicture.6e8bd40a.png",
+    "static/media/EmailLogoLarge.3510fcc0.svg": "/portfolio_website/static/media/EmailLogoLarge.3510fcc0.svg",
+    "static/media/Euler.f2e1cad8.jpg": "/portfolio_website/static/media/Euler.f2e1cad8.jpg",
+    "static/media/GithubLogo.d1bb13ce.svg": "/portfolio_website/static/media/GithubLogo.d1bb13ce.svg",
+    "static/media/LinkedInLogo.70c75609.svg": "/portfolio_website/static/media/LinkedInLogo.70c75609.svg",
+    "static/media/MainSquare.dbc41313.jpg": "/portfolio_website/static/media/MainSquare.dbc41313.jpg",
+    "static/media/MandelBrot.2a0a9d34.png": "/portfolio_website/static/media/MandelBrot.2a0a9d34.png",
+    "static/media/NBAMachineLearning.50803bb9.png": "/portfolio_website/static/media/NBAMachineLearning.50803bb9.png",
+    "static/media/PersonalWebsitePicture.662dbb08.png": "/portfolio_website/static/media/PersonalWebsitePicture.662dbb08.png",
+    "static/media/Resume.ce306a5f.pdf": "/portfolio_website/static/media/Resume.ce306a5f.pdf",
+    "static/media/Swift.d0cf8dd3.png": "/portfolio_website/static/media/Swift.d0cf8dd3.png",
+    "static/media/URALogo.44a7b299.png": "/portfolio_website/static/media/URALogo.44a7b299.png",
+    "static/media/VisualBasic.ec2a972a.png": "/portfolio_website/static/media/VisualBasic.ec2a972a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51227fe1.js",
+    "static/css/2.39c4c0fe.chunk.css",
+    "static/js/2.a8b086a5.chunk.js",
+    "static/css/main.9c9ea3d5.chunk.css",
+    "static/js/main.b6e86e73.chunk.js"
+  ]
+}
