@@ -1,6 +1,5 @@
 {
   "name": "my_portfolio_website",
-  "homepage": "http://tonyhoantrinh.github.io/portfolio_website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,19 +9,14 @@
     "@testing-library/user-event": "^12.1.10",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-lazy-load-image-component": "^1.5.1",
-    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
-    "react-scroll": "^1.8.2",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "start": "craco start",
-    "build": "craco build",
-    "test": "craco test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -44,7 +38,6 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.8.6",
-    "gh-pages": "^3.1.0",
     "postcss": "^7.0.35",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.1.2"
   }
