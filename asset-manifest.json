@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio_website/static/css/main.9c9ea3d5.chunk.css",
-    "main.js": "/portfolio_website/static/js/main.2072ebcb.chunk.js",
-    "main.js.map": "/portfolio_website/static/js/main.2072ebcb.chunk.js.map",
+    "main.js": "/portfolio_website/static/js/main.c4e57377.chunk.js",
+    "main.js.map": "/portfolio_website/static/js/main.c4e57377.chunk.js.map",
     "runtime-main.js": "/portfolio_website/static/js/runtime-main.51227fe1.js",
     "runtime-main.js.map": "/portfolio_website/static/js/runtime-main.51227fe1.js.map",
     "static/css/2.39c4c0fe.chunk.css": "/portfolio_website/static/css/2.39c4c0fe.chunk.css",
@@ -22,6 +22,7 @@
     "static/media/MainSquare.dbc41313.jpg": "/portfolio_website/static/media/MainSquare.dbc41313.jpg",
     "static/media/MandelBrot.2a0a9d34.png": "/portfolio_website/static/media/MandelBrot.2a0a9d34.png",
     "static/media/NBAMachineLearning.50803bb9.png": "/portfolio_website/static/media/NBAMachineLearning.50803bb9.png",
+    "static/media/NCRLogo.288f78b4.png": "/portfolio_website/static/media/NCRLogo.288f78b4.png",
     "static/media/PersonalWebsitePicture.662dbb08.png": "/portfolio_website/static/media/PersonalWebsitePicture.662dbb08.png",
     "static/media/Resume.c1f924dc.pdf": "/portfolio_website/static/media/Resume.c1f924dc.pdf",
     "static/media/Swift.d0cf8dd3.png": "/portfolio_website/static/media/Swift.d0cf8dd3.png",
@@ -33,6 +34,6 @@
     "static/css/2.39c4c0fe.chunk.css",
     "static/js/2.a8b086a5.chunk.js",
     "static/css/main.9c9ea3d5.chunk.css",
-    "static/js/main.2072ebcb.chunk.js"
+    "static/js/main.c4e57377.chunk.js"
   ]
 }
