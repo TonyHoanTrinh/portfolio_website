@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio_website/static/css/main.9c9ea3d5.chunk.css",
-    "main.js": "/portfolio_website/static/js/main.c4e57377.chunk.js",
-    "main.js.map": "/portfolio_website/static/js/main.c4e57377.chunk.js.map",
+    "main.js": "/portfolio_website/static/js/main.4cf9ddcc.chunk.js",
+    "main.js.map": "/portfolio_website/static/js/main.4cf9ddcc.chunk.js.map",
     "runtime-main.js": "/portfolio_website/static/js/runtime-main.51227fe1.js",
     "runtime-main.js.map": "/portfolio_website/static/js/runtime-main.51227fe1.js.map",
     "static/css/2.39c4c0fe.chunk.css": "/portfolio_website/static/css/2.39c4c0fe.chunk.css",
@@ -14,6 +14,7 @@
     "static/css/2.39c4c0fe.chunk.css.map": "/portfolio_website/static/css/2.39c4c0fe.chunk.css.map",
     "static/css/main.9c9ea3d5.chunk.css.map": "/portfolio_website/static/css/main.9c9ea3d5.chunk.css.map",
     "static/js/2.a8b086a5.chunk.js.LICENSE.txt": "/portfolio_website/static/js/2.a8b086a5.chunk.js.LICENSE.txt",
+    "static/media/AmazonLogo.19e5df3e.png": "/portfolio_website/static/media/AmazonLogo.19e5df3e.png",
     "static/media/CPPEncryptionPicture.6e8bd40a.png": "/portfolio_website/static/media/CPPEncryptionPicture.6e8bd40a.png",
     "static/media/EmailLogoLarge.3510fcc0.svg": "/portfolio_website/static/media/EmailLogoLarge.3510fcc0.svg",
     "static/media/Euler.f2e1cad8.jpg": "/portfolio_website/static/media/Euler.f2e1cad8.jpg",
@@ -34,6 +35,6 @@
     "static/css/2.39c4c0fe.chunk.css",
     "static/js/2.a8b086a5.chunk.js",
     "static/css/main.9c9ea3d5.chunk.css",
-    "static/js/main.c4e57377.chunk.js"
+    "static/js/main.4cf9ddcc.chunk.js"
   ]
 }
